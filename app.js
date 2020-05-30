@@ -4,7 +4,7 @@
     angular.module('Application', [])
 .controller("AppController",function($scope){
             console.log("Fsdf");
-    $scope.items="ddd";
+    $scope.items="";
     $scope.checkIfTooMuch = function(){
         console.log("erw");
 
